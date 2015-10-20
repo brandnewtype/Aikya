@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09C3.blws" format="1">
+  <advance width="0"/>
+  <note>
+	uni09C3.blws
+  </note>
+  <outline>
+    <contour>
+      <point x="-215" y="29"/>
+      <point x="-195" y="10"/>
+      <point x="-195" y="-13" type="curve" smooth="yes"/>
+      <point x="-195" y="-54" type="line"/>
+      <point x="-285" y="-112" type="line"/>
+      <point x="-157" y="-220" type="line"/>
+      <point x="-168" y="-244" type="line"/>
+      <point x="-360" y="-92" type="line"/>
+      <point x="-240" y="-18" type="line"/>
+      <point x="-240" y="29" type="line"/>
+    </contour>
+  </outline>
+</glyph>

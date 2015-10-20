@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g464" format="1">
+  <advance width="0"/>
+  <note>
+	g464
+  </note>
+  <outline>
+    <contour>
+      <point x="-235" y="-66" type="line"/>
+      <point x="-212" y="-66" type="line"/>
+      <point x="-13" y="-265" type="line"/>
+      <point x="-13" y="-318" type="line"/>
+      <point x="-26" y="-318" type="line"/>
+      <point x="-235" y="-109" type="line"/>
+    </contour>
+  </outline>
+</glyph>
