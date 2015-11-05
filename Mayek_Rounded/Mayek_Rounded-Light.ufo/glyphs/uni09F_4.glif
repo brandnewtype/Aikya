@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09F4" format="1">
+  <advance width="328"/>
+  <unicode hex="09F4"/>
+  <note>
+	uni09F4
+  </note>
+  <outline>
+    <contour>
+      <point x="65" y="147" type="line"/>
+      <point x="293" y="365" type="line"/>
+      <point x="322" y="365" type="line"/>
+      <point x="106" y="123" type="line"/>
+      <point x="4" y="123" type="line"/>
+      <point x="4" y="147" type="line"/>
+    </contour>
+  </outline>
+</glyph>
