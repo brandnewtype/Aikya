@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bKhRa" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="487" y="-82"/>
+      <point x="494" y="-47"/>
+      <point x="494" y="-14" type="curve" smooth="yes"/>
+      <point x="494" y="119" type="line"/>
+      <point x="399" y="119" type="line"/>
+      <point x="399" y="2" type="line"/>
+      <point x="407" y="2" type="line"/>
+      <point x="407" y="54"/>
+      <point x="349" y="70"/>
+      <point x="312" y="70" type="curve" smooth="yes"/>
+      <point x="265" y="70"/>
+      <point x="223" y="48"/>
+      <point x="186" y="48" type="curve" smooth="yes"/>
+      <point x="152" y="48"/>
+      <point x="137" y="59"/>
+      <point x="137" y="83" type="curve" smooth="yes"/>
+      <point x="137" y="102"/>
+      <point x="147" y="114"/>
+      <point x="147" y="133" type="curve" smooth="yes"/>
+      <point x="147" y="156"/>
+      <point x="132" y="168"/>
+      <point x="110" y="168" type="curve" smooth="yes"/>
+      <point x="66" y="168"/>
+      <point x="49" y="123"/>
+      <point x="49" y="82" type="curve" smooth="yes"/>
+      <point x="49" y="21"/>
+      <point x="87" y="-52"/>
+      <point x="175" y="-52" type="curve" smooth="yes"/>
+      <point x="240" y="-52"/>
+      <point x="290" y="-23"/>
+      <point x="329" y="-23" type="curve" smooth="yes"/>
+      <point x="355" y="-23"/>
+      <point x="377" y="-33"/>
+      <point x="387" y="-47" type="curve" smooth="yes"/>
+      <point x="395" y="-59"/>
+      <point x="410" y="-82"/>
+      <point x="442" y="-82" type="curve" smooth="yes"/>
+    </contour>
+    <component base="bKha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

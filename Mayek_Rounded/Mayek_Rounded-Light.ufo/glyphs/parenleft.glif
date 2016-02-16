@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="1">
-  <advance width="325"/>
+  <advance width="322"/>
   <unicode hex="0028"/>
-  <note>
-	parenleft
-  </note>
   <outline>
     <contour>
-      <point x="127" y="-27"/>
-      <point x="70" y="109"/>
-      <point x="70" y="252" type="curve" smooth="yes"/>
-      <point x="70" y="377"/>
-      <point x="124" y="511"/>
-      <point x="224" y="630" type="curve"/>
-      <point x="255" y="615" type="line"/>
-      <point x="172" y="518"/>
-      <point x="128" y="389"/>
-      <point x="128" y="252" type="curve" smooth="yes"/>
-      <point x="128" y="116"/>
-      <point x="172" y="-12"/>
-      <point x="255" y="-109" type="curve"/>
-      <point x="230" y="-130" type="line"/>
+      <point x="209" y="-82"/>
+      <point x="212" y="-72"/>
+      <point x="212" y="-65" type="curve" smooth="yes"/>
+      <point x="212" y="-28"/>
+      <point x="121" y="102"/>
+      <point x="121" y="289" type="curve" smooth="yes"/>
+      <point x="121" y="475"/>
+      <point x="212" y="625"/>
+      <point x="212" y="654" type="curve" smooth="yes"/>
+      <point x="212" y="660"/>
+      <point x="208" y="669"/>
+      <point x="198" y="669" type="curve" smooth="yes"/>
+      <point x="186" y="669"/>
+      <point x="177" y="658"/>
+      <point x="171" y="644" type="curve" smooth="yes"/>
+      <point x="120" y="524"/>
+      <point x="81" y="430"/>
+      <point x="81" y="297" type="curve" smooth="yes"/>
+      <point x="81" y="145"/>
+      <point x="132" y="33"/>
+      <point x="161" y="-34" type="curve" smooth="yes"/>
+      <point x="175" y="-65"/>
+      <point x="181" y="-82"/>
+      <point x="197" y="-82" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>

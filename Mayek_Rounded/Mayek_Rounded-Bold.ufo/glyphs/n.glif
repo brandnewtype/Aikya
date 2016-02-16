@@ -2,9 +2,6 @@
 <glyph name="n" format="1">
   <advance width="600"/>
   <unicode hex="006E"/>
-  <note>
-	n
-  </note>
   <outline>
   </outline>
 </glyph>

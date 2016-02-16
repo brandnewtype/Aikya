@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bGRa_bSignU" format="1">
+  <advance width="808"/>
+  <outline>
+    <contour>
+      <point x="723" y="160"/>
+      <point x="794" y="219"/>
+      <point x="794" y="312" type="curve" smooth="yes"/>
+      <point x="794" y="392"/>
+      <point x="745" y="455"/>
+      <point x="665" y="455" type="curve" smooth="yes"/>
+      <point x="602" y="455"/>
+      <point x="560" y="409"/>
+      <point x="560" y="359" type="curve" smooth="yes"/>
+      <point x="560" y="297"/>
+      <point x="620" y="263"/>
+      <point x="661" y="263" type="curve" smooth="yes"/>
+      <point x="717" y="263"/>
+      <point x="748" y="304"/>
+      <point x="748" y="345" type="curve" smooth="yes"/>
+      <point x="748" y="373"/>
+      <point x="734" y="401"/>
+      <point x="704" y="416" type="curve"/>
+      <point x="698" y="384" type="line"/>
+      <point x="723" y="371"/>
+      <point x="737" y="338"/>
+      <point x="737" y="317" type="curve" smooth="yes"/>
+      <point x="737" y="274"/>
+      <point x="695" y="244"/>
+      <point x="647" y="244" type="curve" smooth="yes"/>
+      <point x="581" y="244"/>
+      <point x="519" y="297"/>
+      <point x="519" y="369" type="curve"/>
+      <point x="450" y="342" type="line"/>
+      <point x="450" y="263"/>
+      <point x="521" y="160"/>
+      <point x="632" y="160" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="661" y="326"/>
+      <point x="649" y="337"/>
+      <point x="649" y="353" type="curve" smooth="yes"/>
+      <point x="649" y="371"/>
+      <point x="664" y="379"/>
+      <point x="677" y="379" type="curve" smooth="yes"/>
+      <point x="689" y="379"/>
+      <point x="702" y="371"/>
+      <point x="702" y="353" type="curve" smooth="yes"/>
+      <point x="702" y="336"/>
+      <point x="690" y="326"/>
+      <point x="676" y="326" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="808" y="502" type="line" smooth="yes"/>
+      <point x="834" y="502"/>
+      <point x="854" y="520"/>
+      <point x="854" y="545" type="curve" smooth="yes"/>
+      <point x="854" y="569"/>
+      <point x="834" y="587"/>
+      <point x="808" y="587" type="curve" smooth="yes"/>
+      <point x="586" y="587" type="line" smooth="yes"/>
+      <point x="560" y="587"/>
+      <point x="540" y="569"/>
+      <point x="540" y="545" type="curve" smooth="yes"/>
+      <point x="540" y="521"/>
+      <point x="560" y="502"/>
+      <point x="586" y="502" type="curve" smooth="yes"/>
+    </contour>
+    <component base="bGRa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

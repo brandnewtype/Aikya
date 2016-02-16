@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bBDRa" format="1">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="624" y="-82"/>
+      <point x="631" y="-71"/>
+      <point x="631" y="-57" type="curve" smooth="yes"/>
+      <point x="631" y="35" type="line"/>
+      <point x="591" y="35" type="line"/>
+      <point x="591" y="-30" type="line"/>
+      <point x="611" y="-31" type="line"/>
+      <point x="579" y="24"/>
+      <point x="519" y="40"/>
+      <point x="458" y="40" type="curve" smooth="yes"/>
+      <point x="395" y="40"/>
+      <point x="320" y="10"/>
+      <point x="280" y="10" type="curve" smooth="yes"/>
+      <point x="243" y="10"/>
+      <point x="211" y="28"/>
+      <point x="211" y="77" type="curve" smooth="yes"/>
+      <point x="211" y="103"/>
+      <point x="219" y="128"/>
+      <point x="219" y="139" type="curve" smooth="yes"/>
+      <point x="219" y="146"/>
+      <point x="216" y="154"/>
+      <point x="206" y="154" type="curve" smooth="yes"/>
+      <point x="181" y="154"/>
+      <point x="173" y="105"/>
+      <point x="173" y="78" type="curve" smooth="yes"/>
+      <point x="173" y="17"/>
+      <point x="215" y="-30"/>
+      <point x="279" y="-30" type="curve" smooth="yes"/>
+      <point x="322" y="-30"/>
+      <point x="407" y="1"/>
+      <point x="467" y="1" type="curve" smooth="yes"/>
+      <point x="522" y="1"/>
+      <point x="591" y="-21"/>
+      <point x="591" y="-57" type="curve" smooth="yes"/>
+      <point x="591" y="-70"/>
+      <point x="599" y="-82"/>
+      <point x="613" y="-82" type="curve" smooth="yes"/>
+    </contour>
+    <component base="bBDa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

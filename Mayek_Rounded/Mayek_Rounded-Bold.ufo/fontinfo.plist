@@ -6,22 +6,18 @@
 	<integer>800</integer>
 	<key>capHeight</key>
 	<integer>700</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2015, Brand New Type, New Delhi, INDIA</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Mayek_Rounded</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/09/20 05:30:00</string>
+	<string>2016/01/28 18:30:38</string>
 	<key>openTypeNameDesigner</key>
-	<string>Anand Naorem</string>
+	<string>Andy Naorem</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>brandnewtype.com</string>
-	<key>openTypeNameManufacturer</key>
-	<string>Brand New Type</string>
+	<string>www.brandnewtype.com</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>brandnewtype.com</string>
+	<string>www.brandnewtype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Mayek_Rounded</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -44,8 +40,6 @@
 	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>vendorID</key>
-	<string>BNT</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
