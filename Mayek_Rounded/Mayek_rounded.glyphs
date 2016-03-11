@@ -3,6 +3,7 @@ DisplayStrings = (
 /bGRa/bGRa_bSignU/bGRa_bSignUu/bThRa_bSignU/bThRa_bSignUu/bDRa/bDRa_bSignU/bDRa_bSignUu/bDhRa/bDhRa_bSignU/bPRa/bPRa_bSignU/bPRa_bSignUu/bBRa/bBRa_bSignU/bBRa_bSignUu/bBhRa/bBhRa_bSignU/bBhRa_bSignUu/bShRa/bShRa_bSignIi/bShRa_bSignU/bShRa_bSignUu/bSRa/bSRa_bSignU/bSRa_bSignUu/bKSsRa/bKhRa/bGDhRa/bGRa/bGhRa/bNgKRa/bNgKSsRa/bNgGhRa/bNgRa/bCChRa/bCRa/bJRa/bJhRa/bTtRa/bTthRa/bDdRa/bDdhRa/bNnTtRa/bNnTthRa/bNnDdRa/bNnDdhRa/bNnRa/bThRa/bDDRa/bDRa/bDhRa/bNTtRa/bNDda/bNDdRa/bNDRa/bNDhRa/bNRa/bPRa/bPhRa/bBDRa/bBRa/bBhRa/bMPRa/bMPhRa/bMBhRa/bMRa/bYRa/bLTtRa/bLDdRa/bLRa/bShRa/bSsTtRa/bSsPRa/bSsRa/bSTtRa/bSRa/bHRa/bRrRa/bRhRa/bYyRa/bVaAssameseRa/bNThRa/bTtTtRa/bChRa,
 /bKLa/bGLa/bTLa/bPLa/bPhLa/bBLa/bBhLa/bMLa/bLKa/bLGa/bLGha/bLTta/bLTtRa/bLDda/bLDdRa/bLDdha/bLDa/bLPa/bLPha/bLBa/bLMa/bLRa/bLLa/bLSa/bShLa/bSPLa/bSLa/bHLa
 );
+copyright = "Copyright 2015 The Mayek Rounded Project Authors";
 customParameters = (
 {
 name = glyphOrder;
@@ -424,13 +425,29 @@ value = (
     ZWNJ,
     ZWJ,
     BASE
+},
+{
+name = fsType;
+value = (
 );
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = BRNT;
 }
 );
 date = "2016-01-28 13:00:38 +0000";
 designer = "Andy Naorem";
 designerURL = www.brandnewtype.com;
-familyName = "Mayek_Rounded";
+familyName = "Mayek Rounded";
 fontMaster = (
 {
 ascender = 800;
@@ -107812,10 +107829,12 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
 );
+manufacturer = "Brand New Type";
 manufacturerURL = www.brandnewtype.com;
 unitsPerEm = 1000;
 versionMajor = 1;
