@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bKSsNna" format="1">
-  <advance width="700"/>
+  <advance width="720"/>
   <outline>
     <contour>
       <point x="469" y="82" type="line"/>
@@ -111,13 +111,13 @@
       <point x="485" y="544"/>
       <point x="492" y="554"/>
       <point x="526" y="554" type="curve" smooth="yes"/>
-      <point x="700" y="554" type="line" smooth="yes"/>
-      <point x="711" y="554"/>
-      <point x="720" y="561"/>
-      <point x="720" y="571" type="curve" smooth="yes"/>
-      <point x="720" y="580"/>
-      <point x="711" y="587"/>
-      <point x="700" y="587" type="curve" smooth="yes"/>
+      <point x="720" y="554" type="line" smooth="yes"/>
+      <point x="731" y="554"/>
+      <point x="740" y="561"/>
+      <point x="740" y="571" type="curve" smooth="yes"/>
+      <point x="740" y="580"/>
+      <point x="731" y="587"/>
+      <point x="720" y="587" type="curve" smooth="yes"/>
       <point x="514" y="587" type="line" smooth="yes"/>
       <point x="465" y="587"/>
       <point x="445" y="558"/>

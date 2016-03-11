@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bKSsa" format="1">
-  <advance width="700"/>
+  <advance width="720"/>
   <outline>
     <contour>
       <point x="458" y="79" type="line"/>
@@ -75,13 +75,13 @@
       <point x="487" y="491"/>
       <point x="487" y="502"/>
       <point x="521" y="502" type="curve" smooth="yes"/>
-      <point x="700" y="502" type="line" smooth="yes"/>
-      <point x="726" y="502"/>
-      <point x="746" y="520"/>
-      <point x="746" y="545" type="curve" smooth="yes"/>
-      <point x="746" y="569"/>
-      <point x="726" y="587"/>
-      <point x="700" y="587" type="curve" smooth="yes"/>
+      <point x="720" y="502" type="line" smooth="yes"/>
+      <point x="746" y="502"/>
+      <point x="766" y="520"/>
+      <point x="766" y="545" type="curve" smooth="yes"/>
+      <point x="766" y="569"/>
+      <point x="746" y="587"/>
+      <point x="720" y="587" type="curve" smooth="yes"/>
       <point x="498" y="587" type="line" smooth="yes"/>
       <point x="436" y="587"/>
       <point x="392" y="544"/>

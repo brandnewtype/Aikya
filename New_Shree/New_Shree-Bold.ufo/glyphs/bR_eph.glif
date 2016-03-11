@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bReph" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
+    <contour>
+      <point x="-177" y="540" type="line"/>
+      <point x="-50" y="540" type="line"/>
+      <point x="127" y="772" type="line"/>
+      <point x="89" y="799" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-01-28 13:22:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

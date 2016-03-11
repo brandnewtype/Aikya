@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bBBa" format="1">
+  <advance width="815"/>
+  <outline>
+    <contour>
+      <point x="713" y="69" type="line"/>
+      <point x="713" y="190"/>
+      <point x="511" y="300"/>
+      <point x="388" y="315" type="curve"/>
+      <point x="412" y="294" type="line"/>
+      <point x="640" y="380"/>
+      <point x="700" y="434"/>
+      <point x="700" y="497" type="curve" smooth="yes"/>
+      <point x="700" y="546"/>
+      <point x="660" y="587"/>
+      <point x="590" y="587" type="curve" smooth="yes"/>
+      <point x="455" y="587" type="line"/>
+      <point x="455" y="528" type="line"/>
+      <point x="576" y="528" type="line" smooth="yes"/>
+      <point x="615" y="528"/>
+      <point x="652" y="522"/>
+      <point x="652" y="504" type="curve" smooth="yes"/>
+      <point x="652" y="475"/>
+      <point x="570" y="438"/>
+      <point x="367" y="353" type="curve"/>
+      <point x="367" y="256" type="line"/>
+      <point x="444" y="237"/>
+      <point x="665" y="162"/>
+      <point x="665" y="49" type="curve"/>
+    </contour>
+    <contour>
+      <point x="717" y="-12"/>
+      <point x="732" y="6"/>
+      <point x="732" y="29" type="curve" smooth="yes"/>
+      <point x="732" y="453" type="line" smooth="yes"/>
+      <point x="732" y="518"/>
+      <point x="735" y="528"/>
+      <point x="769" y="528" type="curve" smooth="yes"/>
+      <point x="815" y="528" type="line" smooth="yes"/>
+      <point x="833" y="528"/>
+      <point x="848" y="541"/>
+      <point x="848" y="558" type="curve" smooth="yes"/>
+      <point x="848" y="575"/>
+      <point x="833" y="587"/>
+      <point x="815" y="587" type="curve" smooth="yes"/>
+      <point x="752" y="587" type="line" smooth="yes"/>
+      <point x="696" y="587"/>
+      <point x="664" y="551"/>
+      <point x="664" y="470" type="curve" smooth="yes"/>
+      <point x="664" y="29" type="line" smooth="yes"/>
+      <point x="664" y="6"/>
+      <point x="679" y="-12"/>
+      <point x="698" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <component base="bBa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

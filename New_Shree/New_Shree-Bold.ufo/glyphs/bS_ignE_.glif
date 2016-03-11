@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bSignE" format="1">
-  <advance width="600"/>
+  <advance width="273"/>
   <outline>
+    <contour>
+      <point x="-30" y="456" type="line"/>
+      <point x="-30" y="521" type="line"/>
+      <point x="323" y="521" type="line"/>
+      <point x="323" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="456" type="line"/>
+      <point x="238" y="456"/>
+      <point x="107" y="318"/>
+      <point x="107" y="176" type="curve" smooth="yes"/>
+      <point x="107" y="92"/>
+      <point x="153" y="50"/>
+      <point x="228" y="50" type="curve"/>
+      <point x="192" y="6" type="line"/>
+      <point x="161" y="12"/>
+      <point x="137" y="36"/>
+      <point x="137" y="70" type="curve" smooth="yes"/>
+      <point x="137" y="107"/>
+      <point x="164" y="135"/>
+      <point x="201" y="135" type="curve" smooth="yes"/>
+      <point x="241" y="135"/>
+      <point x="269" y="102"/>
+      <point x="269" y="63" type="curve" smooth="yes"/>
+      <point x="269" y="23"/>
+      <point x="241" y="-14"/>
+      <point x="192" y="-14" type="curve" smooth="yes"/>
+      <point x="117" y="-14"/>
+      <point x="28" y="73"/>
+      <point x="28" y="227" type="curve" smooth="yes"/>
+      <point x="28" y="363"/>
+      <point x="98" y="477"/>
+      <point x="230" y="520" type="curve"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-01-28 13:22:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

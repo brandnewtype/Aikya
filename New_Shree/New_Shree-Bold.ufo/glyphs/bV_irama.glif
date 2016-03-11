@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bVirama" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
+    <contour>
+      <point x="-130" y="-14" type="line"/>
+      <point x="71" y="-184" type="line"/>
+      <point x="24" y="-238" type="line"/>
+      <point x="-173" y="-59" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-01-28 13:22:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

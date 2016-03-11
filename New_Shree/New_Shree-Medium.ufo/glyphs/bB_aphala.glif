@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bBaphala" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-60" y="-121" type="line"/>
+      <point x="-60" y="114" type="line"/>
+      <point x="-96" y="151" type="line"/>
+      <point x="-180" y="120"/>
+      <point x="-233" y="94"/>
+      <point x="-318" y="39" type="curve"/>
+      <point x="-264" y="-37" type="line"/>
+      <point x="-185" y="-48"/>
+      <point x="-122" y="-70"/>
+      <point x="-100" y="-121" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-90" y="-84" type="line"/>
+      <point x="-121" y="-29"/>
+      <point x="-178" y="10"/>
+      <point x="-261" y="30" type="curve"/>
+      <point x="-241" y="-2" type="line"/>
+      <point x="-182" y="39"/>
+      <point x="-128" y="65"/>
+      <point x="-79" y="81" type="curve"/>
+      <point x="-115" y="94" type="line"/>
+      <point x="-115" y="-70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-10 20:04:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

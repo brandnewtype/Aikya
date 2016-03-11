@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ZWJ" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
+    <contour>
+      <point x="0" y="748" type="line"/>
+      <point x="212" y="748" type="line"/>
+      <point x="212" y="713" type="line"/>
+      <point x="40" y="713" type="line"/>
+      <point x="40" y="-243" type="line"/>
+      <point x="0" y="-243" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-01-28 13:22:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

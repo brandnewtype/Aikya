@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bPhRa" format="1">
-  <advance width="698"/>
+  <advance width="720"/>
   <outline>
     <contour>
       <point x="407" y="86" type="line"/>
@@ -133,13 +133,13 @@
       <point x="567" y="181" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="698" y="554" type="line" smooth="yes"/>
-      <point x="709" y="554"/>
-      <point x="718" y="562"/>
-      <point x="718" y="571" type="curve" smooth="yes"/>
-      <point x="718" y="580"/>
-      <point x="709" y="587"/>
-      <point x="698" y="587" type="curve" smooth="yes"/>
+      <point x="720" y="554" type="line" smooth="yes"/>
+      <point x="731" y="554"/>
+      <point x="740" y="562"/>
+      <point x="740" y="571" type="curve" smooth="yes"/>
+      <point x="740" y="580"/>
+      <point x="731" y="587"/>
+      <point x="720" y="587" type="curve" smooth="yes"/>
       <point x="0" y="587" type="line" smooth="yes"/>
       <point x="-11" y="587"/>
       <point x="-20" y="580"/>

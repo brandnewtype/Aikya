@@ -2,19 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSCornerRadius</key>
-		<integer>45</integer>
-		<key>GSOffsetHorizontal</key>
-		<integer>25</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetVertical</key>
-		<integer>20</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7</string>
+	<string>FACCF89F-1D68-4E36-B4EE-F40BCDC798F6</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -441,69 +430,6 @@
 	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>-56</integer>
-			<key>y</key>
-			<integer>587</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>-28</integer>
-			<key>y</key>
-			<integer>554</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>649</integer>
-			<key>y</key>
-			<integer>-12</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>458</integer>
-			<key>y</key>
-			<integer>-140</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>400</integer>
-			<key>y</key>
-			<integer>-82</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>584</integer>
-			<key>y</key>
-			<integer>-120</integer>
-		</dict>
-	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
