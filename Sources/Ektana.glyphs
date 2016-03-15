@@ -1,8 +1,5 @@
 {
-DisplayStrings = (
-/bBa
-);
-copyright = "Copyright 2015 The Mayek Project Authors";
+copyright = "Copyright 2015 The Ektana Authors";
 customParameters = (
 {
 name = fsType;
@@ -22,10 +19,10 @@ name = vendorID;
 value = BRNT;
 }
 );
-date = "2016-01-28 13:00:38 +0000";
+date = "2016-03-15 10:14:12 +0000";
 designer = "Neelakash Kshetrimayum";
 designerURL = www.brandnewtype.com;
-familyName = "Mayek";
+familyName = "Ektana";
 fontMaster = (
 {
 ascender = 800;
