@@ -1,5 +1,5 @@
 {
-copyright = "Copyright 2015 The Ektana Authors";
+copyright = "Copyright 2015 The Aikya Authors";
 customParameters = (
 {
 name = fsType;
@@ -19,10 +19,10 @@ name = vendorID;
 value = BRNT;
 }
 );
-date = "2016-03-15 10:14:12 +0000";
+date = "2016-03-20 07:32:45 +0000";
 designer = "Neelakash Kshetrimayum";
 designerURL = www.brandnewtype.com;
-familyName = "Ektana";
+familyName = "Aikya";
 fontMaster = (
 {
 ascender = 800;
@@ -95379,50 +95379,10 @@ width = 887;
 {
 color = -1;
 glyphname = bYaphala;
-lastChange = "2016-03-10 07:10:27 +0000";
+lastChange = "2016-03-20 07:31:59 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"-40 500 LINE",
-"177 500 LINE",
-"207 456 LINE",
-"183 456 LINE SMOOTH",
-"144 456 OFFCURVE",
-"112 408 OFFCURVE",
-"112 349 CURVE SMOOTH",
-"112 320 OFFCURVE",
-"117 277 OFFCURVE",
-"127 220 CURVE SMOOTH",
-"137 163 OFFCURVE",
-"142 120 OFFCURVE",
-"142 91 CURVE SMOOTH",
-"142 23 OFFCURVE",
-"85 -33 OFFCURVE",
-"10 -40 CURVE",
-"3 -22 LINE",
-"48 -18 OFFCURVE",
-"83 29 OFFCURVE",
-"83 86 CURVE SMOOTH",
-"83 113 OFFCURVE",
-"78 152 OFFCURVE",
-"68 205 CURVE SMOOTH",
-"58 258 OFFCURVE",
-"53 297 OFFCURVE",
-"53 324 CURVE SMOOTH",
-"53 380 OFFCURVE",
-"80 431 OFFCURVE",
-"124 456 CURVE",
-"-10 456 LINE"
-);
-}
-);
-};
-layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
-name = Light;
 paths = (
 {
 closed = 1;
@@ -95454,6 +95414,45 @@ nodes = (
 "53 270 OFFCURVE",
 "53 334 CURVE SMOOTH",
 "53 391 OFFCURVE",
+"85 443 OFFCURVE",
+"137 462 CURVE"
+);
+}
+);
+};
+layerId = "F2EBC5D5-DDE2-4851-B52F-F2293ECE9CC7";
+name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"-10 456 LINE",
+"-10 491 LINE",
+"197 491 LINE",
+"197 456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"181 456 LINE",
+"147 456 OFFCURVE",
+"102 422 OFFCURVE",
+"102 356 CURVE SMOOTH",
+"102 294 OFFCURVE",
+"141 177 OFFCURVE",
+"141 115 CURVE SMOOTH",
+"141 54 OFFCURVE",
+"104 6 OFFCURVE",
+"35 -10 CURVE",
+"26 13 LINE",
+"76 28 OFFCURVE",
+"94 67 OFFCURVE",
+"94 109 CURVE SMOOTH",
+"94 173 OFFCURVE",
+"53 273 OFFCURVE",
+"53 335 CURVE SMOOTH",
+"53 390 OFFCURVE",
 "85 443 OFFCURVE",
 "137 462 CURVE"
 );
@@ -95517,22 +95516,22 @@ closed = 1;
 nodes = (
 "217 456 LINE",
 "174 456 OFFCURVE",
-"121 430 OFFCURVE",
-"121 369 CURVE SMOOTH",
-"121 305 OFFCURVE",
-"181 176 OFFCURVE",
-"181 94 CURVE SMOOTH",
-"181 17 OFFCURVE",
-"128 -32 OFFCURVE",
-"37 -51 CURVE",
-"15 0 LINE",
-"68 13 OFFCURVE",
-"94 32 OFFCURVE",
-"94 83 CURVE SMOOTH",
-"94 160 OFFCURVE",
-"35 262 OFFCURVE",
-"35 344 CURVE SMOOTH",
-"35 414 OFFCURVE",
+"121 429 OFFCURVE",
+"121 370 CURVE SMOOTH",
+"121 310 OFFCURVE",
+"176 200 OFFCURVE",
+"176 121 CURVE SMOOTH",
+"176 42 OFFCURVE",
+"122 -12 OFFCURVE",
+"37 -31 CURVE",
+"15 20 LINE",
+"61 33 OFFCURVE",
+"91 55 OFFCURVE",
+"91 112 CURVE SMOOTH",
+"91 188 OFFCURVE",
+"35 268 OFFCURVE",
+"35 345 CURVE SMOOTH",
+"35 413 OFFCURVE",
 "79 462 OFFCURVE",
 "173 492 CURVE"
 );
