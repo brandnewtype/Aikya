@@ -3,9 +3,9 @@
   <advance width="185"/>
   <outline>
     <contour>
-      <point x="107" y="487" type="line"/>
-      <point x="89" y="506"/>
-      <point x="78" y="536"/>
+      <point x="117" y="477" type="line"/>
+      <point x="93" y="499"/>
+      <point x="78" y="532"/>
       <point x="78" y="563" type="curve" smooth="yes"/>
       <point x="78" y="630"/>
       <point x="150" y="686"/>
@@ -20,9 +20,9 @@
       <point x="118" y="730"/>
       <point x="35" y="665"/>
       <point x="35" y="584" type="curve" smooth="yes"/>
-      <point x="35" y="549"/>
-      <point x="50" y="515"/>
-      <point x="78" y="486" type="curve"/>
+      <point x="35" y="545"/>
+      <point x="53" y="508"/>
+      <point x="88" y="476" type="curve"/>
     </contour>
     <contour>
       <point x="113" y="0" type="line"/>
@@ -39,6 +39,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -120,7 +122,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>357</integer>
+                  <integer>358</integer>
                   <key>y</key>
                   <integer>686</integer>
                 </dict>
@@ -128,7 +130,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>470</integer>
+                  <integer>473</integer>
                   <key>y</key>
                   <integer>634</integer>
                 </dict>
@@ -138,7 +140,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>591</integer>
+                  <integer>595</integer>
                   <key>y</key>
                   <integer>530</integer>
                 </dict>
@@ -148,7 +150,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>606</integer>
+                  <integer>610</integer>
                   <key>y</key>
                   <integer>546</integer>
                 </dict>
@@ -156,7 +158,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>475</integer>
+                  <integer>478</integer>
                   <key>y</key>
                   <integer>668</integer>
                 </dict>
@@ -164,7 +166,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>349</integer>
+                  <integer>350</integer>
                   <key>y</key>
                   <integer>730</integer>
                 </dict>
@@ -335,6 +337,8 @@
           <integer>185</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

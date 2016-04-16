@@ -78,8 +78,8 @@
       <point x="325" y="-54"/>
       <point x="332" y="-131" type="curve"/>
       <point x="357" y="-131" type="line"/>
-      <point x="357" y="56" type="line"/>
-      <point x="322" y="56" type="line"/>
+      <point x="357" y="66" type="line"/>
+      <point x="322" y="66" type="line"/>
       <point x="322" y="-53" type="line"/>
       <point x="342" y="-85" type="line"/>
       <point x="324" y="-6"/>
@@ -108,6 +108,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -1010,6 +1012,8 @@
           <integer>436</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

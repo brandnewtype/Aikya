@@ -58,8 +58,8 @@
       <point x="376" y="414"/>
       <point x="359" y="443"/>
       <point x="335" y="463" type="curve"/>
-      <point x="289" y="456" type="line"/>
-      <point x="311" y="453"/>
+      <point x="290" y="459" type="line"/>
+      <point x="311" y="451"/>
       <point x="334" y="430"/>
       <point x="334" y="402" type="curve" smooth="yes"/>
       <point x="334" y="374"/>
@@ -81,14 +81,16 @@
       <point x="76" y="286" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="446" y="456" type="line"/>
-      <point x="446" y="491" type="line"/>
+      <point x="467" y="456" type="line"/>
+      <point x="467" y="491" type="line"/>
       <point x="-10" y="491" type="line"/>
       <point x="-10" y="456" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -110,15 +112,15 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>467</integer>
+                  <integer>466</integer>
                   <key>y</key>
-                  <integer>-58</integer>
+                  <integer>-57</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>354</integer>
+                  <integer>353</integer>
                   <key>y</key>
                   <integer>33</integer>
                 </dict>
@@ -772,7 +774,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>446</integer>
+                  <integer>467</integer>
                   <key>y</key>
                   <integer>456</integer>
                 </dict>
@@ -782,7 +784,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>446</integer>
+                  <integer>467</integer>
                   <key>y</key>
                   <integer>491</integer>
                 </dict>
@@ -821,6 +823,8 @@
           <integer>457</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

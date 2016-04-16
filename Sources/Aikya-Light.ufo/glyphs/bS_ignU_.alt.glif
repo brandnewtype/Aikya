@@ -3,36 +3,12 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="54" y="-129" type="line"/>
-      <point x="-64" y="-14"/>
-      <point x="-114" y="22"/>
-      <point x="-171" y="22" type="curve" smooth="yes"/>
-      <point x="-229" y="22"/>
-      <point x="-259" y="-15"/>
-      <point x="-259" y="-54" type="curve" smooth="yes"/>
-      <point x="-259" y="-99"/>
-      <point x="-218" y="-136"/>
-      <point x="-169" y="-136" type="curve" smooth="yes"/>
-      <point x="-114" y="-136"/>
-      <point x="-70" y="-91"/>
-      <point x="-70" y="-33" type="curve"/>
-      <point x="-102" y="-12" type="line"/>
-      <point x="-102" y="-71"/>
-      <point x="-142" y="-102"/>
-      <point x="-181" y="-102" type="curve" smooth="yes"/>
-      <point x="-209" y="-102"/>
-      <point x="-223" y="-85"/>
-      <point x="-223" y="-66" type="curve" smooth="yes"/>
-      <point x="-223" y="-43"/>
-      <point x="-205" y="-17"/>
-      <point x="-162" y="-17" type="curve" smooth="yes"/>
-      <point x="-112" y="-17"/>
-      <point x="-60" y="-53"/>
-      <point x="37" y="-146" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-69" y="-40"/>
-      <point x="-68" y="-29"/>
+      <point x="-3" y="-73"/>
+      <point x="-44" y="-37"/>
+      <point x="-75" y="-15" type="curve"/>
+      <point x="-70" y="-42" type="line"/>
+      <point x="-68" y="-31"/>
+      <point x="-68" y="-24"/>
       <point x="-68" y="-16" type="curve" smooth="yes"/>
       <point x="-68" y="19"/>
       <point x="-76" y="69"/>
@@ -41,10 +17,42 @@
       <point x="-100" y="68"/>
       <point x="-98" y="30"/>
       <point x="-98" y="7" type="curve" smooth="yes"/>
-      <point x="-98" y="-9"/>
+      <point x="-98" y="-3"/>
       <point x="-99" y="-15"/>
       <point x="-102" y="-25" type="curve"/>
-      <point x="-71" y="-51" type="line"/>
+      <point x="-76" y="-14" type="line"/>
+      <point x="-115" y="13"/>
+      <point x="-141" y="22"/>
+      <point x="-171" y="22" type="curve" smooth="yes"/>
+      <point x="-229" y="22"/>
+      <point x="-259" y="-15"/>
+      <point x="-259" y="-54" type="curve" smooth="yes"/>
+      <point x="-259" y="-99"/>
+      <point x="-218" y="-136"/>
+      <point x="-169" y="-136" type="curve" smooth="yes"/>
+      <point x="-114" y="-136"/>
+      <point x="-70" y="-92"/>
+      <point x="-70" y="-34" type="curve"/>
+      <point x="-90" y="-40" type="line"/>
+      <point x="-56" y="-61"/>
+      <point x="-16" y="-95"/>
+      <point x="37" y="-146" type="curve"/>
+      <point x="54" y="-129" type="line"/>
+    </contour>
+    <contour>
+      <point x="-209" y="-102"/>
+      <point x="-223" y="-85"/>
+      <point x="-223" y="-66" type="curve" smooth="yes"/>
+      <point x="-223" y="-43"/>
+      <point x="-205" y="-17"/>
+      <point x="-162" y="-17" type="curve" smooth="yes"/>
+      <point x="-135" y="-17"/>
+      <point x="-106" y="-28"/>
+      <point x="-71" y="-54" type="curve"/>
+      <point x="-102" y="-14" type="line"/>
+      <point x="-102" y="-71"/>
+      <point x="-142" y="-102"/>
+      <point x="-181" y="-102" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -311,7 +319,7 @@
                   <key>x</key>
                   <integer>-68</integer>
                   <key>y</key>
-                  <integer>-28</integer>
+                  <integer>-29</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -329,15 +337,15 @@
                   <key>x</key>
                   <integer>-68</integer>
                   <key>y</key>
-                  <integer>21</integer>
+                  <integer>19</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-77</integer>
+                  <integer>-76</integer>
                   <key>y</key>
-                  <integer>65</integer>
+                  <integer>69</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -345,9 +353,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-101</integer>
+                  <integer>-88</integer>
                   <key>y</key>
-                  <integer>108</integer>
+                  <integer>122</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -355,17 +363,17 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-122</integer>
+                  <integer>-109</integer>
                   <key>y</key>
-                  <integer>99</integer>
+                  <integer>118</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-104</integer>
+                  <integer>-100</integer>
                   <key>y</key>
-                  <integer>56</integer>
+                  <integer>68</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -373,7 +381,7 @@
                   <key>x</key>
                   <integer>-98</integer>
                   <key>y</key>
-                  <integer>29</integer>
+                  <integer>30</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -383,7 +391,7 @@
                   <key>x</key>
                   <integer>-98</integer>
                   <key>y</key>
-                  <integer>3</integer>
+                  <integer>7</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -391,7 +399,7 @@
                   <key>x</key>
                   <integer>-98</integer>
                   <key>y</key>
-                  <integer>-7</integer>
+                  <integer>-9</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>

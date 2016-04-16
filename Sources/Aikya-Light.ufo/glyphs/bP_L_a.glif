@@ -79,8 +79,8 @@
       <point x="385" y="77"/>
       <point x="392" y="0" type="curve"/>
       <point x="417" y="0" type="line"/>
-      <point x="417" y="108" type="line"/>
-      <point x="382" y="108" type="line"/>
+      <point x="417" y="148" type="line"/>
+      <point x="382" y="148" type="line"/>
       <point x="382" y="78" type="line"/>
       <point x="402" y="46" type="line"/>
       <point x="383" y="125"/>
@@ -109,4 +109,12 @@
       <point x="417" y="90" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

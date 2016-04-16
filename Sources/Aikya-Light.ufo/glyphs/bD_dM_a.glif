@@ -32,9 +32,9 @@
       <point x="441" y="-110" type="curve"/>
     </contour>
     <contour>
-      <point x="320" y="89"/>
-      <point x="293" y="119"/>
-      <point x="271" y="130" type="curve"/>
+      <point x="319" y="86"/>
+      <point x="290" y="119"/>
+      <point x="266" y="130" type="curve"/>
       <point x="237" y="121" type="line"/>
       <point x="256" y="110"/>
       <point x="274" y="94"/>
@@ -93,6 +93,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -847,6 +849,8 @@
           <integer>536</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

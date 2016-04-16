@@ -105,8 +105,16 @@
       <point x="574" y="456" type="line"/>
       <point x="574" y="521" type="line"/>
       <point x="414" y="521" type="line"/>
-      <point x="414" y="71" type="line"/>
-      <point x="494" y="30" type="line"/>
+      <point x="414" y="81" type="line"/>
+      <point x="494" y="80" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

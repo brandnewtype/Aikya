@@ -71,8 +71,8 @@
     <contour>
       <point x="433" y="186" type="line"/>
       <point x="363" y="149" type="line"/>
-      <point x="363" y="-45" type="line"/>
-      <point x="433" y="-124" type="line"/>
+      <point x="363" y="-78" type="line"/>
+      <point x="433" y="-138" type="line"/>
     </contour>
     <contour>
       <point x="549" y="456" type="line"/>
@@ -83,6 +83,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -355,6 +357,8 @@
           <integer>519</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

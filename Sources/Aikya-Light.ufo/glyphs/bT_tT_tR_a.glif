@@ -89,8 +89,8 @@
     <contour>
       <point x="432" y="456" type="line"/>
       <point x="432" y="491" type="line"/>
-      <point x="-20" y="491" type="line"/>
-      <point x="-20" y="456" type="line"/>
+      <point x="-10" y="491" type="line"/>
+      <point x="-10" y="456" type="line"/>
     </contour>
     <contour>
       <point x="365" y="564"/>

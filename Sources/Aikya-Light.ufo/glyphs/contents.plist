@@ -558,10 +558,10 @@
 	<string>bP_S_a.glif</string>
 	<key>bPTRa</key>
 	<string>bP_T_R_a.glif</string>
-	<key>bPTTa</key>
-	<string>bP_T_T_a.glif</string>
 	<key>bPTa</key>
 	<string>bP_T_a.glif</string>
+	<key>bPTa_bSignU</key>
+	<string>bP_T_a_bS_ignU_.glif</string>
 	<key>bPTta</key>
 	<string>bP_T_ta.glif</string>
 	<key>bPa</key>
