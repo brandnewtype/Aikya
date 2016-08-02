@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bReph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-154" y="535" type="line"/>
+      <point x="-61" y="535" type="line"/>
+      <point x="117" y="761" type="line"/>
+      <point x="90" y="781" type="line"/>
+    </contour>
+  </outline>
+</glyph>

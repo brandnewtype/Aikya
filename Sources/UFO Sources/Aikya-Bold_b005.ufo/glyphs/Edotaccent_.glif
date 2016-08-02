@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="1">
+  <advance width="487"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="247" y="601" type="curve"/>
+      <point x="296" y="601"/>
+      <point x="319" y="627"/>
+      <point x="319" y="667" type="curve" smooth="yes"/>
+      <point x="319" y="698"/>
+      <point x="295" y="723"/>
+      <point x="254" y="723" type="curve"/>
+      <point x="210" y="723"/>
+      <point x="187" y="696"/>
+      <point x="187" y="658" type="curve" smooth="yes"/>
+      <point x="187" y="625"/>
+      <point x="212" y="601"/>
+    </contour>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="477" y="138" type="line"/>
+      <point x="415" y="156" type="line"/>
+      <point x="370" y="62" type="line"/>
+      <point x="207" y="53" type="line"/>
+      <point x="207" y="253" type="line"/>
+      <point x="299" y="250" type="line"/>
+      <point x="312" y="187" type="line"/>
+      <point x="365" y="187" type="line"/>
+      <point x="365" y="371" type="line"/>
+      <point x="312" y="371" type="line"/>
+      <point x="299" y="311" type="line"/>
+      <point x="207" y="309" type="line"/>
+      <point x="207" y="501" type="line"/>
+      <point x="353" y="494" type="line"/>
+      <point x="379" y="423" type="line"/>
+      <point x="437" y="423" type="line"/>
+      <point x="427" y="550" type="line"/>
+      <point x="27" y="550" type="line"/>
+      <point x="27" y="499" type="line"/>
+      <point x="84" y="489" type="line"/>
+      <point x="84" y="58" type="line"/>
+      <point x="28" y="48" type="line"/>
+    </contour>
+  </outline>
+</glyph>

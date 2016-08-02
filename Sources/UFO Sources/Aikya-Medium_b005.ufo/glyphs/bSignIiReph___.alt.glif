@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignIiReph.alt" format="1">
+  <advance width="184"/>
+  <outline>
+    <contour>
+      <point x="-253" y="631" type="line"/>
+      <point x="-273" y="631"/>
+      <point x="-283" y="637"/>
+      <point x="-283" y="649" type="curve" smooth="yes"/>
+      <point x="-283" y="677"/>
+      <point x="-228" y="701"/>
+      <point x="-155" y="701" type="curve" smooth="yes"/>
+      <point x="-15" y="701"/>
+      <point x="64" y="610"/>
+      <point x="64" y="495" type="curve"/>
+      <point x="121" y="494" type="line"/>
+      <point x="112" y="643"/>
+      <point x="-19" y="765"/>
+      <point x="-171" y="765" type="curve" smooth="yes"/>
+      <point x="-267" y="765"/>
+      <point x="-330" y="716"/>
+      <point x="-330" y="662" type="curve" smooth="yes"/>
+      <point x="-330" y="621"/>
+      <point x="-291" y="593"/>
+      <point x="-243" y="585" type="curve"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="467" type="line"/>
+      <point x="65" y="467" type="line"/>
+      <point x="65" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="456" type="line"/>
+      <point x="203" y="505" type="line"/>
+      <point x="-15" y="505" type="line"/>
+      <point x="-15" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="-131" y="588" type="line"/>
+      <point x="-84" y="543" type="line"/>
+      <point x="109" y="748" type="line"/>
+      <point x="83" y="770" type="line"/>
+    </contour>
+  </outline>
+</glyph>

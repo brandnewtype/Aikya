@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignVocalicRr" format="1">
+  <advance width="0"/>
+  <unicode hex="09C4"/>
+  <outline>
+    <contour>
+      <point x="-70" y="0" type="line"/>
+      <point x="-70" y="21"/>
+      <point x="-80" y="54"/>
+      <point x="-92" y="82" type="curve"/>
+      <point x="-100" y="80" type="line"/>
+      <point x="-98" y="60"/>
+      <point x="-98" y="50"/>
+      <point x="-98" y="38" type="curve"/>
+      <point x="-243" y="-42" type="line"/>
+      <point x="-29" y="-151" type="line"/>
+      <point x="-15" y="-132" type="line"/>
+      <point x="-201" y="-34" type="line"/>
+      <point x="-188" y="-65" type="line"/>
+    </contour>
+    <contour>
+      <point x="-201" y="-124" type="line"/>
+      <point x="-188" y="-155" type="line"/>
+      <point x="-103" y="-101" type="line"/>
+      <point x="-152" y="-76" type="line"/>
+      <point x="-243" y="-132" type="line"/>
+      <point x="-29" y="-241" type="line"/>
+      <point x="-15" y="-222" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignU" format="1">
+  <advance width="0"/>
+  <unicode hex="09C1"/>
+  <outline>
+    <contour>
+      <point x="74" y="-123" type="line"/>
+      <point x="-63" y="-7"/>
+      <point x="-123" y="32"/>
+      <point x="-187" y="32" type="curve" smooth="yes"/>
+      <point x="-254" y="32"/>
+      <point x="-287" y="-9"/>
+      <point x="-287" y="-55" type="curve" smooth="yes"/>
+      <point x="-287" y="-114"/>
+      <point x="-233" y="-166"/>
+      <point x="-167" y="-166" type="curve" smooth="yes"/>
+      <point x="-101" y="-166"/>
+      <point x="-48" y="-115"/>
+      <point x="-48" y="-45" type="curve"/>
+      <point x="-118" y="-22" type="line"/>
+      <point x="-118" y="-70"/>
+      <point x="-154" y="-97"/>
+      <point x="-189" y="-97" type="curve" smooth="yes"/>
+      <point x="-209" y="-97"/>
+      <point x="-221" y="-88"/>
+      <point x="-221" y="-72" type="curve" smooth="yes"/>
+      <point x="-221" y="-52"/>
+      <point x="-201" y="-35"/>
+      <point x="-170" y="-35" type="curve" smooth="yes"/>
+      <point x="-124" y="-35"/>
+      <point x="-64" y="-74"/>
+      <point x="40" y="-161" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-50" y="-61" type="line"/>
+      <point x="-48" y="-51"/>
+      <point x="-46" y="-41"/>
+      <point x="-46" y="-29" type="curve" smooth="yes"/>
+      <point x="-46" y="-2"/>
+      <point x="-56" y="36"/>
+      <point x="-72" y="64" type="curve"/>
+      <point x="-116" y="57" type="line"/>
+      <point x="-113" y="37"/>
+      <point x="-111" y="20"/>
+      <point x="-111" y="6" type="curve" smooth="yes"/>
+      <point x="-111" y="-8"/>
+      <point x="-113" y="-20"/>
+      <point x="-115" y="-32" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

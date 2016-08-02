@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bDandaPoetic" format="1">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="234" y="424" type="line"/>
+      <point x="234" y="476"/>
+      <point x="208" y="512"/>
+      <point x="169" y="512" type="curve" smooth="yes"/>
+      <point x="141" y="512"/>
+      <point x="117" y="490"/>
+      <point x="117" y="460" type="curve" smooth="yes"/>
+      <point x="117" y="430"/>
+      <point x="139" y="407"/>
+      <point x="170" y="407" type="curve" smooth="yes"/>
+      <point x="188" y="407"/>
+      <point x="206" y="414"/>
+      <point x="220" y="434" type="curve"/>
+      <point x="176" y="454" type="line"/>
+      <point x="176" y="62" type="line"/>
+      <point x="176" y="9"/>
+      <point x="201" y="-26"/>
+      <point x="240" y="-26" type="curve" smooth="yes"/>
+      <point x="269" y="-26"/>
+      <point x="293" y="-5"/>
+      <point x="293" y="25" type="curve" smooth="yes"/>
+      <point x="293" y="55"/>
+      <point x="270" y="78"/>
+      <point x="239" y="78" type="curve" smooth="yes"/>
+      <point x="221" y="78"/>
+      <point x="203" y="71"/>
+      <point x="189" y="51" type="curve"/>
+      <point x="234" y="31" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bRaphala" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-61" y="-21" type="line"/>
+      <point x="-61" y="138" type="line"/>
+      <point x="-109" y="138" type="line"/>
+      <point x="-109" y="34" type="line"/>
+      <point x="-89" y="14" type="line"/>
+      <point x="-109" y="78"/>
+      <point x="-158" y="116"/>
+      <point x="-222" y="116" type="curve" smooth="yes"/>
+      <point x="-248" y="116"/>
+      <point x="-301" y="109"/>
+      <point x="-330" y="109" type="curve" smooth="yes"/>
+      <point x="-376" y="109"/>
+      <point x="-400" y="127"/>
+      <point x="-400" y="163" type="curve" smooth="yes"/>
+      <point x="-400" y="178"/>
+      <point x="-395" y="197"/>
+      <point x="-389" y="213" type="curve"/>
+      <point x="-422" y="226" type="line"/>
+      <point x="-432" y="205"/>
+      <point x="-438" y="178"/>
+      <point x="-438" y="157" type="curve" smooth="yes"/>
+      <point x="-438" y="89"/>
+      <point x="-382" y="36"/>
+      <point x="-305" y="36" type="curve" smooth="yes"/>
+      <point x="-270" y="36"/>
+      <point x="-204" y="48"/>
+      <point x="-173" y="48" type="curve" smooth="yes"/>
+      <point x="-126" y="48"/>
+      <point x="-105" y="20"/>
+      <point x="-102" y="-21" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

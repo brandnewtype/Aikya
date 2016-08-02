@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignE" format="1">
+  <advance width="268"/>
+  <unicode hex="09C7"/>
+  <outline>
+    <contour>
+      <point x="-25" y="456" type="line"/>
+      <point x="-25" y="513" type="line"/>
+      <point x="307" y="513" type="line"/>
+      <point x="307" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="456" type="line"/>
+      <point x="224" y="456"/>
+      <point x="102" y="324"/>
+      <point x="102" y="183" type="curve" smooth="yes"/>
+      <point x="102" y="93"/>
+      <point x="151" y="44"/>
+      <point x="227" y="44" type="curve"/>
+      <point x="192" y="9" type="line"/>
+      <point x="166" y="15"/>
+      <point x="145" y="36"/>
+      <point x="145" y="66" type="curve" smooth="yes"/>
+      <point x="145" y="100"/>
+      <point x="170" y="126"/>
+      <point x="204" y="126" type="curve" smooth="yes"/>
+      <point x="242" y="126"/>
+      <point x="267" y="95"/>
+      <point x="267" y="59" type="curve" smooth="yes"/>
+      <point x="267" y="22"/>
+      <point x="241" y="-11"/>
+      <point x="196" y="-11" type="curve" smooth="yes"/>
+      <point x="123" y="-11"/>
+      <point x="34" y="77"/>
+      <point x="34" y="227" type="curve" smooth="yes"/>
+      <point x="34" y="355"/>
+      <point x="97" y="468"/>
+      <point x="225" y="512" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

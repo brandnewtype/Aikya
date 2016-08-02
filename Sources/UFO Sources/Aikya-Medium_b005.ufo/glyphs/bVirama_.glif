@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bVirama" format="1">
+  <advance width="0"/>
+  <unicode hex="09CD"/>
+  <outline>
+    <contour>
+      <point x="-122" y="-16" type="line"/>
+      <point x="62" y="-182" type="line"/>
+      <point x="27" y="-222" type="line"/>
+      <point x="-155" y="-50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

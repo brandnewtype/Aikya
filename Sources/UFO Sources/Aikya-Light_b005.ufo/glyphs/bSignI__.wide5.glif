@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignI.wide5" format="1">
+  <advance width="185"/>
+  <outline>
+    <contour>
+      <point x="107" y="487" type="line"/>
+      <point x="89" y="506"/>
+      <point x="78" y="537"/>
+      <point x="78" y="561" type="curve"/>
+      <point x="78" y="634"/>
+      <point x="175" y="694"/>
+      <point x="353" y="694" type="curve"/>
+      <point x="509" y="694"/>
+      <point x="707" y="648"/>
+      <point x="906" y="530" type="curve"/>
+      <point x="920" y="551" type="line"/>
+      <point x="706" y="684"/>
+      <point x="503" y="738"/>
+      <point x="336" y="738" type="curve"/>
+      <point x="149" y="738"/>
+      <point x="35" y="670"/>
+      <point x="35" y="582" type="curve"/>
+      <point x="35" y="550"/>
+      <point x="50" y="515"/>
+      <point x="78" y="486" type="curve"/>
+    </contour>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="467" type="line"/>
+      <point x="73" y="467" type="line"/>
+      <point x="73" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="456" type="line"/>
+      <point x="195" y="491" type="line"/>
+      <point x="-10" y="491" type="line"/>
+      <point x="-10" y="456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

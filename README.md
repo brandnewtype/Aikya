@@ -1,1 +1,1 @@
-Project in development
+Modern yet traditional, Aikya is a medium contrast Bengali typeface family built for continuous text setting. Its letterforms are structured on traditional proportions and refined for modern application. Cleaned terminals, consistent strokes, and generous counters make Aikya a legible typeface even at smaller sizes. With its five weights and extensive open type features, Aikya brings an elegant simplicity to the page.
